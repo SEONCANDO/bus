@@ -32,7 +32,7 @@ class DuringDateTest {
     int length;                        // 배열에 저장된 날짜의 개수를 담을 변수
 
     public DuringDateTest() {
-        String startDt = "20211201";  // 시작 날짜
+        String startDt = "20211001";  // 시작 날짜
         int endDt = 20211231;        // 끝 날짜
 
         int startYear = Integer.parseInt(startDt.substring(0,4));   // 시작 날짜에서 연도만 잘라서 저장
