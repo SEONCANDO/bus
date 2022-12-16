@@ -1,1 +1,0 @@
-SELECT * FROM bus.bus_table;
